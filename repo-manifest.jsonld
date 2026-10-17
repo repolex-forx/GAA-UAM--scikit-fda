@@ -8,7 +8,8 @@
     {
       "@id": "https://repolex.ai/r/GAA-UAM/scikit-fda/commit/903c4c9f7f0fe557be55a8a1386d887f08d80ec6",
       "git:hexsha": "903c4c9f7f0fe557be55a8a1386d887f08d80ec6",
-      "repolex:parseStatus": "ast_complete"
+      "repolex:parseStatus": "parsed",
+      "repolex:parsedAt": "2026-10-17T05:15:32.468914+00:00"
     },
     {
       "@id": "https://repolex.ai/r/GAA-UAM/scikit-fda/commit/54bf30572e4b4e5b5a02c7956cb95101a96e6f25",
